@@ -4,7 +4,7 @@ A community-maintained blocklist of phone numbers used by AI calling services, r
 
 ## What's in this repo
 
-- `blacklist.txt` — one phone number per line in E.164 format (e.g. `+12013759200`). Currently contains **15,000+ numbers**.
+- `blacklist.txt` — one phone number per line in E.164 format (e.g. `+12013759200`). Currently contains **44,192 numbers**.
 
 ## Usage
 
